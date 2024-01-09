@@ -1,0 +1,41 @@
+{
+  "juegos":[
+    {
+      "id":1,
+      "nombre":"Dungeon & Dragons (5ta edición)",
+      "imagen":"https://i.pinimg.com/564x/05/c1/5a/05c15aca14964af944aac1c638e1d7d2.jpg"
+    },
+    {
+      "id":2,
+      "nombre":"Pathfinder",
+      "imagen":"https://i.pinimg.com/564x/cb/e0/a6/cbe0a67ff699d460e0e44cff80b0bb40.jpg"
+     },
+     {
+      "id":3,
+      "nombre":"Jojos roleplay",
+      "imagen":"https://i.pinimg.com/564x/00/43/85/004385f76965c1727c35e5134bc5fe89.jpg"
+     },
+     {
+      "id":4,
+      "nombre":"Frostgrave",
+      "imagen":"https://i.pinimg.com/564x/0b/23/37/0b2337d61247f7bd2aefca179cd8f7bc.jpg"
+     },
+     {
+      "id":5,
+      "nombre":"Estigia (3ra edición)",
+      "imagen":"https://m.media-amazon.com/images/I/61tLRTAUBWL._SY466_.jpg"
+     },
+     {
+      "id":6,
+      "nombre":"Estigia (3ra edición)",
+      "imagen":"https://m.media-amazon.com/images/I/61tLRTAUBWL._SY466_.jpg"
+     },
+     {
+      "id":7,
+      "nombre":"Savage World",
+      "imagen":"https://i.pinimg.com/564x/5b/4b/47/5b4b47bda796078c0c445ffd5010aaa8.jpg"
+     }
+   ]
+ }
+
+  
